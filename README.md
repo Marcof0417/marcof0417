@@ -3,3 +3,7 @@ Estudiante de la carrera Licenciatura en Informatica Educativa
 
 Actualmente cursando Programación II.
 
+### Sobre mi
+** Lenguajes: ** Me gusta programar en C++ y Java.
+**Gaming:** En mi tiempo libre juego a Valorant.
+**Series/Anime:** Actualmente viendo Rock Punk
