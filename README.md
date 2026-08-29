@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Quién soy
 
-<!--
-**Marcof0417/marcof0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una persona interesada en la tecnología, la informática y la investigación, con especial interés en seguir desarrollándome tanto académica como profesionalmente.
 
-Here are some ideas to get you started:
+🎓 Estudios e intereses
+Interés en Informática y Sistemas.
+Experiencia trabajando en proyectos y trabajos de investigación académica.
+Interés por la Inteligencia Artificial y su impacto en la educación.
+Actualmente interesado en una formación relacionada con la investigación policial.
+💻 Tecnología
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesan temas relacionados con:
+
+Programación.
+Inteligencia Artificial.
+Sistemas informáticos.
+Tecnología aplicada a la educación.
+Videojuegos y desarrollo de proyectos.
+🏋️ Otros intereses
+
+También me gusta el entrenamiento en gimnasio, especialmente el trabajo con pesas y kettlebells, además de los videojuegos y Pokemon GO.
+
+🎯 Objetivos
+
+Seguir aprendiendo, mejorar mis conocimientos y desarrollar una carrera que combine tecnología, investigación y trabajo profesional.
